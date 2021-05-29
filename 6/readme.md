@@ -1,0 +1,3 @@
+NIM         : 2022500111
+NAMA        : SOFINI
+KELOMPOK    : SI2K
